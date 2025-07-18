@@ -44,4 +44,13 @@ Visual attachments by the 3 regions are shown below:
 
 <img src="https://github.com/user-attachments/assets/d1837a83-40cb-454e-b3f4-114085ab2043" width=300 height=200>  <img src="https://github.com/user-attachments/assets/3679d2c3-b93b-408d-b4a2-d93c79166160" width=300 height=200>  <img src="https://github.com/user-attachments/assets/351fa294-4e51-422f-922c-5c4fe1d674d8" width=300 height=200>
 
+## Bonus Payments - Case Questions
+
+1. The total amount to be paid as Bonus is $2.2million. This is just a 3.16% increase from the current amount across regions. This is a rational fiigure as it does not impact the financial books and will have a positive impact on the staffs morale.
+2. The total pay for period is $71.92m.
+3. The Total regional value for the period is displayed in the image below. Note that Kaduna Region has the highest vale with $27.48m. This is a $480,000 increase from her previous value(i.e 1.78% increase)
+
+In conclusion, my assessment shows that this is a healthy move that will impact employees morale positively and nothave a negative impact on the Company finances
+
+<img width="1262" height="702" alt="image" src="https://github.com/user-attachments/assets/328ed77f-2df8-4a6a-b5b3-c4ccec0743fc" />
 
