@@ -46,11 +46,18 @@ Visual attachments by the 3 regions are shown below:
 
 ## Bonus Payments - Case Questions
 
-1. The total amount to be paid as Bonus is $2.2million. This is just a 3.16% increase from the current amount across regions. This is a rational fiigure as it does not impact the financial books and will have a positive impact on the staffs morale.
-2. The total pay for period is $71.92m.
-3. The Total regional value for the period is displayed in the image below. Note that Kaduna Region has the highest vale with $27.48m. This is a $480,000 increase from her previous value(i.e 1.78% increase)
+1. Total Bonus Allocation amounts to $2.2 million, reflecting a modest 3.16% increase from the previous payroll figures across all regions. This incremental adjustment is financially sustainable and strategically sound, with strong potential to boost employee morale.
+ 
+ 2. Overall Total Compensation for the period stands at $71.92 million, inclusive of base salaries and newly computed bonuses.
 
-In conclusion, my assessment shows that this is a healthy move that will impact employees morale positively and nothave a negative impact on the Company finances
+3. Regional Breakdown:
+- The Kaduna Region records the highest total compensation at $27.48 million, marking a $480,000 increase from its previous figure — a modest incerease of 1.78%.
+
+- Detailed visuals of the regional distribution are provided in the accompanying charts.
+
+✅ Conclusion
+
+The proposed bonus structure represents a fiscally responsible and employee-centric decision. It strengthens internal equity, encourages performance, and aligns well with the company’s long-term goal of fostering a positive work culture — all without exerting undue pressure on the company’s financials.
 
 <img width="1262" height="702" alt="image" src="https://github.com/user-attachments/assets/328ed77f-2df8-4a6a-b5b3-c4ccec0743fc" />
 
